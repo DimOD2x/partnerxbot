@@ -7,7 +7,7 @@
   "description": "A simple Node app built on Express, instantly up and running.",
   "main": " dimod.js",
   "scripts": {
-    "start": "node dimod.js"
+    "start": "node yaxi.js"
   },
   "dependencies": {
     "discord.js": "^11.5.1",
